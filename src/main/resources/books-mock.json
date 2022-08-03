@@ -1,0 +1,5 @@
+[{"id":"3d253e29-8785-464f-8fa0-9e4b57699db9","name":"Trupe","price":"87.11","description":"Trupe","author":"author","type":"fiction","isbn":"9e4b57699db9"},
+{"id":"17f904c1-806f-4252-9103-74e7a5d3e340","name":"Fivespan","price":"946.15","description":"Fivespan","author":"author","type":"comic","isbn":"74e7a5d3e340"},
+{"id":"fd796d75-1bcf-4a95-bf1a-f7b296adb79f","name":"Wikizz","price":"3708.11","description":"Wikizz","author":"author","type":"comic","isbn":"f7b296adb79f"},
+{"id":"ccd1e5cc-c798-4407-883f-f2c62e0d7106","name":"Kwimbee","price":"2190.40","description":"Kwimbee","author":"author","type":"fiction","isbn":"f2c62e0d7106"}
+]
